@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N S Farhana</h1>
-<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Building Smart Automation Systems</h3>
+<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Python | C programming
 
 ---
 
@@ -69,8 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N S Farhana&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N S Farhana&layout=compact" />
 </p>
 
 ---
@@ -82,17 +82,9 @@
 
 ---
 
-## 🔍 Research Interests
-- AI in Embedded Systems  
-- Internet of Things (IoT)  
-- Smart Automation Systems  
-- VLSI Physical Design  
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: nsfarhana.2004@gmail.com  
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: www.linkedin.com/in/n-s-farhana
 
 ---
 
