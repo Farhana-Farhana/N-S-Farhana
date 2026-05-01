@@ -113,9 +113,9 @@
 
 <p align="center">
   
-<img src="Certificates/MUN.jpeg" width="300"/>
-<img src="ISRO_IEEE_talk session_1.png" width="300"/>
-<img src="ISRO_talk session_2.jpg" width="300"/>
+<img src="Certificates/MUN.jpeg" width="270"/>
+<img src="ISRO_IEEE_talk session_1.png" width="270"/>
+<img src="ISRO_talk session_2.jpg" width="270"/>
 
 </p>
 
