@@ -59,10 +59,24 @@
 ---
 
 ## 📜 Certifications
-- NPTEL – Introduction to Semiconductor Devices (Elite)
-- Python Programming – Infosys Springboard  
-- Java Training – Udemy  
-- STM32 for DSP Workshop  
+- eSim Research Migration Project (FOSSEE, IIT Bombay)
+Design and Simulation of CMOS Domino Logic Circuits
+- NPTEL – Elite Certification
+Introduction to Semiconductor Devices
+- STM32 for Digital Signal Processing
+2-Day Hands-on Workshop, TKMCE
+- Programming Fundamentals using Python
+Infosys Springboard
+- Python Bootcamp (3 Days)
+Hands-on training in Python programming
+- Introduction to MATLAB Workshop
+IEEE EdSoc SBC NITC
+- HP LIFE Foundation
+Data Science & Analytics
+- Java Training Complete Course
+Udemy
+- Web Development Session (ENCAMP 4.0)
+IEEE SB TKMCE  
 
 ---
 
