@@ -71,8 +71,8 @@
 <p align="center">
 
 <img src="Certificates/python-infosys.jpg" width="300"/>
-<img src="Certificates/python_bootcamp.jpg" width="300"/>
 <img src="Certificates/Matlab.jpg" width="300"/>
+<img src="Certificates/python_bootcamp.jpg" width="300"/>
 
 </p>
 
@@ -80,16 +80,21 @@
 
 <img src="Certificates/java_certificate.jpg" width="300"/>
 <img src="Certificates/Data Science & Analytics.jpg" width="300"/>
-<img src="Certificates/MUN.jpg" width="300"/>
+<img src="Certificates/Encamp.jpg" width="300"/>
 
 </p>
 
 <p align="center">
 
-<img src="Certificates/Encamp.jpg" width="300"/>
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0001.jpg" width="300"/>
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0002.jpg" width="300"/>
 <img src="Certificates/N-S-Farhana_qnayds/N S Farhana_qnayds_page-0003.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="Certificates/MUN.jpeg" width="300"/>
 
 </p>
 
