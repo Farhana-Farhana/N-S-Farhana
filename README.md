@@ -92,12 +92,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="Certificates/MUN.jpeg" width="300"/>
-
-</p>
-
 ---
 
 ### 🏅 Certification Highlights
@@ -115,7 +109,19 @@
 ## 🏆 Achievements & Activities
 - Member – IEDC Documentation Team 
 - Secretariat Member – TKM Model United Nations 2025  
-- Active participant in IEEE workshops  
+- Active participant in IEEE workshops
+
+<p align="center">
+
+<img src="Certificates/MUN.jpeg" width="500"/>
+
+</p>
+<p align="center">
+
+<img src="ISRO_IEEE_talk session_1.png" width="400"/>
+<img src="ISRO_talk session_2.jpg" width="400"/>
+
+</p>
 
 ---
 
