@@ -51,7 +51,7 @@
 ---
 
 ## 🌍 Internship Experience
-**Embedded Systems & IoT Intern – KELTRON | June 2 , 2025 - June 13 , 2025 ( 2 weeks )**  
+**Embedded Systems & IoT Intern – KELTRON ( 2025 )**  
 - Worked with ESP32 & Arduino  
 - Sensor interfacing (DHT22, MQ3, Ultrasonic, PIR, Soil Moisture)  
 - Developed automation systems using relays & IoT cloud  
