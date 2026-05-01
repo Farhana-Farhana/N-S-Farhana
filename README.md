@@ -72,6 +72,57 @@
 
 ---
 
+## 📜 Certifications
+
+<p align="center">
+
+<img src="certificates/esim-FOSSEE.jpg" width="300"/>
+<img src="certificates/nptel-semiconductor.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="certificates/python-infosys.jpg" width="300"/>
+<img src="certificates/python_bootcamp.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="certificates/stm32-workshop.jpg" width="300"/>
+<img src="certificates/Matlab.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="certificates/java_certificate.jpg" width="300"/>
+<img src="certificates/Data Science & Analytics.jpg" width="300"/>
+
+</p>
+
+<p align="center">
+
+<img src="certificates/Encamp.jpg" width="300"/>
+<img src="certificates/MUN.jpg" width="300"/>
+
+</p>
+
+---
+
+### 🏅 Certification Highlights
+- eSim Research Migration Project – FOSSEE, IIT Bombay  
+- NPTEL Elite Certification – Introduction to Semiconductor Devices  
+- STM32 for DSP Workshop  
+- Python Programming – Infosys Springboard  
+- MATLAB Workshop – IEEE EdSoc SBC NITC  
+- Data Science & Analytics – HP LIFE Foundation  
+- Java Complete Course – Udemy  
+- ENCAMP 4.0 – Web Development Session  
+
+---
+
 ## 🏆 Achievements & Activities
 - Member – IEDC Documentation Team 
 - Secretariat Member – TKM Model United Nations 2025  
