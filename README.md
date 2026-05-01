@@ -110,6 +110,7 @@
 - Member – IEDC Documentation Team 
 - Secretariat Member – TKM Model United Nations 2025  
 - Active participant in IEEE workshops
+- Participant – IEEE & ISRO–TKMCE Sessions on Astrophysics and Space Industry Careers
 
 <p align="center">
   
