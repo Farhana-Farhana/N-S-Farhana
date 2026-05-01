@@ -76,7 +76,7 @@
 ---
 
 ## 🏆 Achievements & Activities
-- Member – IEDC Documentation Team  
+- Member – IEDC Documentation Team 
 - Secretariat Member – TKM Model United Nations 2025  
 - Active participant in IEEE workshops  
 
