@@ -54,6 +54,11 @@
 
 <p align="center">
 
+<img src="START.jpg" width="500"/>
+
+</p>
+<p align="center">
+
 <img src="Certificates/esim-FOSSEE.jpg" width="270"/>
 <img src="Certificates/nptel-semiconductor.jpg" width="270"/>
 <img src="Certificates/stm32-workshop.jpeg" width="270"/>
