@@ -92,6 +92,7 @@
 ---
 
 ### 🏅 Certification Highlights
+- ISRO START Programme – Scientific Observations from Space
 - eSim Research Migration Project – FOSSEE, IIT Bombay  
 - NPTEL Elite Certification – Introduction to Semiconductor Devices  
 - STM32 for DSP Workshop  
