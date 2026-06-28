@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N S Farhana</h1> 
-<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Python | C programming | Verilog
+<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | RTL Design | Python | C programming | Verilog
 
 ---
 
